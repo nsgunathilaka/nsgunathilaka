@@ -62,6 +62,12 @@
 <!--My Github Stats (Graph)-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=nsgunathilaka&theme=react-dark&hide_border=true&area=true)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=nsgunathilaka)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nsgunathilaka)
+
+
+
 <br/>
 <br/>
 
