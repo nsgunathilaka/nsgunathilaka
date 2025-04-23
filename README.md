@@ -50,8 +50,6 @@ Hi there, I'm Nihal Gunathilaka 👋
 <!--My Github Stats (Graph)-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=nsgunathilaka&theme=react-dark&hide_border=true&area=true)
 
-✨ _"Code is like humor. When you have to explain it, it’s bad." - Cory House_
-
 <br/>
 <br/>
 
