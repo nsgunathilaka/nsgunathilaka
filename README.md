@@ -8,7 +8,7 @@ Hi there, I'm Nihal Gunathilaka 👋
 - Modern Web Frameworks
 
 📫 How to reach me...
- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nsgunathilaka/)
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-gunathilaka-945912170/)
 
 - Email: nihalshantha470@gmail.com - Feel free to reach out to me via email.
 
