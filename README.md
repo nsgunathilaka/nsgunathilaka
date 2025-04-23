@@ -1,11 +1,16 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
-Hi there, I'm Nihal Gunathilaka 👋
+<p align="center">
+  <em>Hi there, I'm <strong>Kasun</strong> 👋</em> <br>
+  I'm currently working at Neosolax (Pvt) Ltd in Sri Lanka as a Fullstack Software Engineer. I work with technologies such as Magento, Django, Python, AWS, Payload CMS, and WordPress.
+</p>
 
-🌱 I’m currently learning...
-- Advanced Web Development Techniques
-- Database Management
-- Modern Web Frameworks
+---
+
+### 💡 My Interests
+- Scalable Fullstack Web Applications  
+- Cloud-based Architecture and Deployments  
+- E-commerce Development & CMS Integrations  
 
 📫 How to reach me...
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-gunathilaka-945912170/)
