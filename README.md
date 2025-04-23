@@ -64,8 +64,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nsgunathilaka)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nsgunathilaka)
-
 
 
 <br/>
