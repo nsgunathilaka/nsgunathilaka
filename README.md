@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <em>Hi there, I'm <strong>Kasun</strong> 👋</em> <br>
+  <em>Hi there, I'm <strong>Nihal Gunathilaka</strong> 👋</em> <br>
   I'm currently working at Neosolax (Pvt) Ltd in Sri Lanka as a Fullstack Software Engineer. I work with technologies such as Magento, Django, Python, AWS, Payload CMS, and WordPress.
 </p>
 
