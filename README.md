@@ -1,70 +1,91 @@
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<div align="center">
 
-<p align="center">
-  <em>Hi there, I'm <strong>Nihal Gunathilaka</strong> 👋</em> <br>
-  I'm currently working at Neosolax (Pvt) Ltd in Sri Lanka as a Fullstack Software Engineer. I work with technologies such as Magento, Django, Python, AWS, Payload CMS, and WordPress.
+# 👋 Hi, I'm Nihal Gunathilaka
+
+### Full Stack Software Engineer | E-commerce | Cloud | Backend Development
+
+<p>
+  Full Stack Software Engineer at <strong>NeoSolax (Pvt) Ltd</strong>, Sri Lanka 🇱🇰
+</p>
+
+<p>
+  Building scalable web applications, e-commerce solutions, APIs, and cloud-based systems.
+</p>
+
+<a href="https://www.linkedin.com/in/nihal-gunathilaka-945912170/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nihal%20Gunathilaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nihalshantha470@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Software Engineer** with experience developing scalable web applications, e-commerce platforms, CMS solutions, APIs, and cloud-based systems.
+
+My main experience includes **Magento, Laravel, Django, Python, PHP, AWS, Payload CMS, WordPress, React, MySQL, and MongoDB**.
+
+I enjoy working on complex backend systems, integrations, automation, and building reliable applications that solve real-world business problems.
+
+- 🔭 Currently working as a **Full Stack Software Engineer**
+- 🛒 Experienced in **Magento & E-commerce Development**
+- ⚙️ Interested in **Backend Architecture & API Development**
+- ☁️ Working with **AWS & Cloud Deployments**
+- 🚀 Exploring scalable application architecture and modern development practices
+- 💡 Interested in automation, integrations, and AI-powered applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django,react,bootstrap" />
+</p>
+
+### E-commerce & CMS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 </p>
 
 ---
 
-### 💡 My Interests
-- Scalable Fullstack Web Applications  
-- Cloud-based Architecture and Deployments  
-- E-commerce Development & CMS Integrations  
+## 🎯 Areas of Interest
 
-📫 How to reach me...
- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-gunathilaka-945912170/)
-
-- Email: nihalshantha470@gmail.com - Feel free to reach out to me via email.
-
-
-
----
-
-## 🔧 Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload-121212?style=for-the-badge&logo=payloadcms&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-
-
-
-<!-- My Github Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
-<br>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{nsgunathilaka}/count.svg" alt="visitor badge"/></p>
-<p align="center"><a href="https://github.com/nsgunathilaka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsgunathilaka&theme=tokyonight" /></a></p>
-<p align="center" ><a href="https://github.com/nsgunathilaka"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsgunathilaka&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=nsgunathilaka&theme=tokyonight"></p>
-
-<br/>
-<br/>
-<br/>
-
-<!--My Github Stats (Graph)-->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=nsgunathilaka&theme=react-dark&hide_border=true&area=true)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nsgunathilaka)
-
-
-
-<br/>
-<br/>
+```text
+🌐 Full Stack Development
+🛒 E-commerce Architecture
+⚙️ Backend Engineering
+☁️ Cloud Architecture & AWS
+🔌 API Development & Integrations
+🤖 Automation & AI Integrations
+📦 CMS & Content Platforms
